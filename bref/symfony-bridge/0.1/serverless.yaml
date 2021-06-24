@@ -38,6 +38,8 @@ package:
         - '!assets/**'
         - '!node_modules/**'
         - '!public/build/**'
+        - 'public/build/entrypoints.json'
+        - 'public/build/manifest.json'
         - '!tests/**'
         - '!var/**'
         # If you want to include files and folders that are part of excluded folders,
